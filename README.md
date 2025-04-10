@@ -11,7 +11,7 @@
 
 #### Estudando no momento :
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,py,dj,git,github)](https://github.com/BarbosAlan)
+[![Habilidades](https://skillicons.dev/icons?i=js,ts,py,django,git,github)](https://github.com/BarbosAlan)
 
 #### Ferramentas de Trabalho :
 
