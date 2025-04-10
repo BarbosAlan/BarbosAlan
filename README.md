@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Alan+Barbosa+Desenvolvedor+Front-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/IBrunooDev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Alan+Barbosa+Desenvolvedor+Front-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/BarbosAlan)
 
 <p align="center">Tenho 20 anos e sou um Desenvolvedor Front-End. Minha paixão por tecnologia e meu amor ❤️ por desafios me levam a buscar constantemente novas maneiras de aprender e crescer neste campo desafiador.</p>
 
 ## Minhas Habilidades :
 
-[![HTML-CSS](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://github.com/IBrunooDev)
+[![HTML-CSS](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://github.com/BarbosAlan)
 
 
 #### Estudando no momento :
