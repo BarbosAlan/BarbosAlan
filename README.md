@@ -6,7 +6,7 @@
 
 ## Minhas Habilidades :
 
-[![HTML-CSS](https://skillicons.dev/icons?i=html,css,js)](https://github.com/IBrunooDev)
+[![HTML-CSS](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://github.com/IBrunooDev)
 
 
 #### Estudando no momento :
