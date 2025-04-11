@@ -21,11 +21,13 @@ Sou um entusiasta do **desenvolvimento Front-End**, apaixonado por criar interfa
 ### 🚀 Habilidades Técnicas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github" />
+  <a href="https://github.com/BarbosAlan">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github" />
+  </a>
 </div>
 
-- **HTML5 & CSS3:** Estrutura e estilo para interfaces modernas e responsivas.
-- **JavaScript:** Interatividade e dinamismo para aplicações web.
+- **HTML5 & CSS3:** Estrutura e estilo para interfaces modernas e responsivas.  
+- **JavaScript:** Interatividade e dinamismo para aplicações web.  
 - **Bootstrap:** Framework rápido para prototipação de interfaces elegantes.
 - **Git & GitHub:** Versionamento, colaboração e controle de código.
 
@@ -34,11 +36,13 @@ Sou um entusiasta do **desenvolvimento Front-End**, apaixonado por criar interfa
 ### 📚 Tecnologias em Estudo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,django" />
+  <a href="https://github.com/BarbosAlan">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,django" />
+  </a>
 </div>
 
-- **TypeScript:** Tipagem forte para maior segurança e escalabilidade no JavaScript.
-- **Python & Django:** Back-End ágil e poderoso com foco em produtividade.
+- **TypeScript:** Tipagem forte para maior segurança e escalabilidade no JavaScript.  
+- **Python & Django:** Back-End ágil e poderoso com foco em produtividade.  
 
 ---
 
@@ -63,7 +67,7 @@ Sou um entusiasta do **desenvolvimento Front-End**, apaixonado por criar interfa
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BarbosAlan&show_icons=true&theme=midnight-purple" />
@@ -71,25 +75,20 @@ Sou um entusiasta do **desenvolvimento Front-End**, apaixonado por criar interfa
 
 ---
 
-### 🐍 Snake Contributions · Atividade GitHub
-
-<div align="center" style="background-color:#000; border-radius: 15px; padding: 10px 0;">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg" type="image/svg+xml" />
-    <img 
-      alt="Snake animation showing GitHub contribution graph"
-      src="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg"
-      style="max-width: 100%; background-color: #000; border-radius: 10px;" />
-  </picture>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Contribuindo+desde-2023-blueviolet?style=for-the-badge">
-</p>
+### 🧠 Linguagens Mais Utilizadas
 
 <div align="center">
-  <i>Essa animação representa minha jornada diária como desenvolvedor — cada commit, pull request e contribuição está aqui. 🚀</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosAlan&layout=compact&theme=midnight-purple&langs_count=6&hide=scss" />
+</div>
+
+---
+
+### 🐍 Snake Contributions · Atividade GitHub
+
+<div align="center" style="background-color:#000; border-radius: 15px; padding: 10px 0;"> <picture> <source srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg" type="image/svg+xml" /> <img alt="Snake animation showing GitHub contribution graph" src="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%; background-color: #000; border-radius: 10px;" /> </picture> </div> <p align="center"> <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Contribuindo+desde-2023-blueviolet?style=for-the-badge"> </p> <div align="center">
+📈 Esta visualização dinâmica mostra meu engajamento contínuo com projetos, aprendizados e colaborações.
+A cobra 🐍 percorre meus commits, pull requests e contribuições, deixando um rastro do meu esforço constante em evoluir como desenvolvedor!
+
 </div>
 
 ---
