@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Alan+Barbosa+Desenvolvedor+Front-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/BarbosAlan)
 
-<p align="center">Tenho 20 anos e sou um Desenvolvedor Front-End. Minha paixão por tecnologia e meu amor ❤️ por desafios me levam a buscar constantemente novas maneiras de aprender e crescer neste campo desafiador.</p>
+<p align="center">Tenho 20 anos e sou Desenvolvedor Front-End. Movido pela paixão por tecnologia e pelo entusiasmo em enfrentar desafios, estou sempre em busca de novas formas de aprender, evoluir e criar soluções impactantes nesse universo em constante transformação.</p>
 
 ## Minhas Habilidades :
 
