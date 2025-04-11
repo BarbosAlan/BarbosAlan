@@ -28,4 +28,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbosAlana&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbosAlan&show_icons=true)
